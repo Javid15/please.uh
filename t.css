@@ -1,0 +1,15 @@
+.pad1{
+  border-style: solid; 
+  border-color: rgb(71, 89, 255); 
+  border-width: 7px;
+}
+.pad2{
+     border-style: solid; 
+     border-color: rgb(240, 71, 255);
+     border-width: 14px; 
+}
+.pad3{
+   border-style: solid; 
+   border-color: blueviolet;
+   border-width: 18px;
+}
