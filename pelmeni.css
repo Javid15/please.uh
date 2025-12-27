@@ -1,0 +1,14 @@
+.box{
+    background-color: aqua;
+    color: aliceblue;
+    width: 100px;
+    height: 300px;
+    padding: 50px 70px 50px 60px ;
+}
+.boo{
+    background-color: aquamarine;
+    color: blueviolet;
+    width: 50px;
+    height: 150px;
+    padding: 70px 70px 50px 50px;
+}
