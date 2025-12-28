@@ -1,0 +1,9 @@
+.name{
+    color: beige;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-indent: 80px;
+}
