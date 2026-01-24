@@ -1,0 +1,9 @@
+.menu li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 50px;
+    color: black;
+    font-size: 25px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
