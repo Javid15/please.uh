@@ -1,0 +1,49 @@
+form {
+  width: 300px;
+  text-align: center;
+  margin: 50px auto;
+  background-color: aliceblue;
+  border: 2px solid lightgray;
+  border-radius: 5%;
+  padding: 20px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  margin-bottom: 5px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 60%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid gainsboro;
+  border-color: blue;
+  outline: none;
+}
+
+input:focus {
+    background-color: blue;
+    outline: none;
+}
+
+button {
+    background-color: rgb(160, 160, 252);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    border: none;
+}
+button :hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+
+
+
